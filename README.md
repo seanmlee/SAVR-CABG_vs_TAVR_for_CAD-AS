@@ -25,6 +25,7 @@ This repository contains reproducible code for the manuscript cited above.
 - All scripts are in the `./scripts` directory
 - Execute scripts in their numbered order to format data, propensity match, fit and plot models, generate tables and figures
   - Users must provide their own VASQIP data file and update `00_format.R` with the appropriate filepath
+  - As stated in the manuscript, the VASQIP database is available upon request through the Veterans Affairs National Surgery Office: https://www.data.va.gov/dataset/Veterans-Affairs-Surgical-Quality-Improvement-Prog/nf89-pcxq/about_data
 - Please direct any questions to smlee@gwu.edu
 <br>  
 <br> 
