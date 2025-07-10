@@ -6,7 +6,7 @@ library(haven)
 
 
 # data -------------------------------------------------------------------------
-dat <- read_sav("data/vasqip_data_file.sav") # enter your vasqip data filepath
+dat <- read_sav("vasqip_data_filepath.sav") # enter your vasqip data filepath
 
 
 # format -----------------------------------------------------------------------
